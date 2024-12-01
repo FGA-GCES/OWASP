@@ -18,7 +18,7 @@
 1. **Mateus Fidelis Marinho Maia** - 200073184 - [@MatsFidelis](https://github.com/MatsFidelis)  
 2. **Pedro Lucas Garcia** - 190115548 - [@AlefMemTav](https://github.com/AlefMemTav)  
 3. **Pablo Guilherme de Jesus Batista Silva** - 200025791 - [@PabloGJBS](https://github.com/PabloGJBS)  
-4. **Rafael Brito Bosi Rodrigues** - 211029559 - [@strageunit28](https://github.com/strageunit28)  
+4. **Rafael Brito Bosi Rodrigues** - 211029559 - [@strageunit28](https://github.com/strangeunit28)  
 
 
 ---
